@@ -1,3 +1,3 @@
-# Javascript_Projects
-Projects created using Javascript
+# Javascript and HTML Projects
+Projects created using HTML and Javascript
 
