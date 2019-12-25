@@ -1,0 +1,18 @@
+
+            #dragball{
+                width:100px;
+                height:100px;
+                border-radius:50%;
+                background-color:#DA6FFF;
+            }
+            #dragball:hover{
+                cursor:pointer;
+            }
+            .dragslot{
+                width:100px;
+                height:100px;
+                margin:50px;
+                background-color:#8363FF;
+            }
+
+        
