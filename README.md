@@ -1,3 +1,3 @@
-# Javascript and HTML Projects
-Projects created using HTML and Javascript
+# Programming Projects
+Projects created using Javascript, HTML and c#
 
